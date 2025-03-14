@@ -231,18 +231,7 @@ button {
     background-repeat: no-repeat;
 }
 
-.header_section::after {
-    content: '';
-    position: absolute;
-    width: 73000px;
-    height: 950px;
-    background-color: #9fdfff; 
-    left: -40px;
-    top: -750px;
-    z-index: -1;
-    border-bottom-right-radius: 100%;
-    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3); /* Menipiskan bayangan */
-}
+
 
 .header_bg {
     background-color: #9fdfff !important;
